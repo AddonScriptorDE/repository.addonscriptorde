@@ -1,0 +1,11 @@
+<settings>
+    <setting id="filterMode" type="enum" label="30002" lvalues="30003|30004|30005" default="0"/>
+    <setting id="filterCustom" type="number" label="30005" enable="eq(-1,2)" default="3"/>
+    <setting type="sep" />
+    <setting id="playRandom" type="bool" label="30001" default="true"/>
+    <setting type="sep" />
+    <setting id="searchSort" type="enum" label="30006" lvalues="30008|30009|30010|30011" default="0"/>
+    <setting id="searchTime" type="enum" label="30007" lvalues="30012|30013|30014|30015" default="0"/>
+    <setting type="sep" />
+    <setting label="30018" type="action" action="RunPlugin(plugin://plugin.video.youtube.quickplay/?mode=removeHistory)"/>
+</settings>

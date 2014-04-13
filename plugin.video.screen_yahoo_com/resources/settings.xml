@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+   <category label="30201">
+        <setting id="maxVideoQuality" type="enum" label="30101" values="1096kb|1628kb|3192kb|4192kb" default="2"/>
+        <setting id="useThumbAsFanart" type="bool" label="30103" default="true"/>
+        <setting id="itemsPerPage" type="enum" label="30102" values="25|50|75|100" default="1"/>
+        <setting id="forceView" type="bool" label="30104" default="true"/>
+        <setting id="viewIDNew" type="number" label="30105" default="51"/>
+    </category>
+    <category label="30202">
+        <setting id="site1" type="bool" label="30003" default="true"/>
+        <setting id="site2" type="bool" label="30004" default="true"/>
+        <setting id="site3" type="bool" label="30005" default="true"/>
+        <setting id="site4" type="bool" label="30006" default="true"/>
+        <setting id="site5" type="bool" label="30007" default="true"/>
+        <setting id="site6" type="bool" label="30008" default="true"/>
+        <setting id="site7" type="bool" label="30009" default="true"/>
+        <setting id="site8" type="bool" label="30010" default="true"/>
+        <setting id="site9" type="bool" label="30011" default="true"/>
+        <setting id="site10" type="bool" label="30012" default="true"/>
+        <setting id="site11" type="bool" label="30013" default="true"/>
+    </category>
+</settings>

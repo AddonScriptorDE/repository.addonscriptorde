@@ -1,0 +1,23 @@
+1.0.0
+- Initial release
+1.0.1
+- Fixed bug when no videos were found
+1.0.2
+- Added tv_mode parameter for usage without Screensaver function
+1.0.3
+- Bugfix with tv_mode
+1.0.4
+- Fixed bug when exiting screensaver
+1.0.5
+- Added video file extensions
+1.0.6
+- Added setting to force volume
+1.0.8
+- Added support for network shares
+- Added audio & playlist file extensions
+1.1.0
+- New icon (thx@djtoll)
+1.1.1
+- Fixed file extension bug (now non case sensitive)
+1.1.2
+- Fixed volume detection on Gotham

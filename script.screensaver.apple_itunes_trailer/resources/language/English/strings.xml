@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<strings>
+  <string id="30001">Quality</string>
+  <string id="30002">Seconds to jump back on interrupted videos</string>
+  <string id="30003">Exit delay in milliseconds</string>
+  <string id="30004">Change volume</string>
+  <string id="30005">No videos found</string>
+  <string id="30006">Volume (0-100)</string>
+  <string id="30010">Action and Adventure</string>
+  <string id="30011">Comedy</string>
+  <string id="30012">Documentary</string>
+  <string id="30013">Drama</string>
+  <string id="30014">Family</string>
+  <string id="30015">Fantasy</string>
+  <string id="30016">Foreign</string>
+  <string id="30017">Horror</string>
+  <string id="30018">Musical</string>
+  <string id="30019">Romance</string>
+  <string id="30020">Science Fiction</string>
+  <string id="30021">Thriller</string>
+  <string id="30101">General</string>
+  <string id="30102">Genres</string>
+</strings>

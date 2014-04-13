@@ -1,0 +1,8 @@
+<settings>
+   <setting id="user" type="text" label="30101" default=""/>
+   <setting id="pw" type="text" option="hidden" label="30102" default=""/>
+   <setting id="language" type="enum" label="30106" values="DE/EN|DE|EN" default="0"/>
+   <setting id="backNav" type="bool" label="30103" default="true"/>
+   <setting id="pause" type="bool" label="30104" default="true"/>
+   <setting id="saveSub" type="bool" label="30105" default="false"/>
+</settings>

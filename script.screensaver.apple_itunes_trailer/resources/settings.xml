@@ -1,0 +1,23 @@
+<settings>
+    <category label="30101">
+        <setting id="quality" type="enum" label="30001" values="480p|720p|1080p" default="1"/>
+        <setting id="setVolume" type="bool" label="30004" default="false"/>
+        <setting id="volume" type="number" label="30006" enable="!eq(-1,false)" default="1"/>
+        <setting id="jumpBack" type="number" label="30002" default="10"/>
+        <setting id="exitDelay" type="number" label="30003" default="1000"/>
+    </category>
+    <category label="30102">
+        <setting id="g_action" type="bool" label="30010" default="true"/>
+        <setting id="g_comedy" type="bool" label="30011" default="true"/>
+        <setting id="g_docu" type="bool" label="30012" default="true"/>
+        <setting id="g_drama" type="bool" label="30013" default="true"/>
+        <setting id="g_family" type="bool" label="30014" default="true"/>
+        <setting id="g_fantasy" type="bool" label="30015" default="true"/>
+        <setting id="g_foreign" type="bool" label="30016" default="true"/>
+        <setting id="g_horror" type="bool" label="30017" default="true"/>
+        <setting id="g_musical" type="bool" label="30018" default="true"/>
+        <setting id="g_romance" type="bool" label="30019" default="true"/>
+        <setting id="g_scifi" type="bool" label="30020" default="true"/>
+        <setting id="g_thriller" type="bool" label="30021" default="true"/>
+    </category>
+</settings>

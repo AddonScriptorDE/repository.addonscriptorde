@@ -1,0 +1,11 @@
+<settings>
+    <setting id="site1" type="bool" label="30001" default="true" />
+    <setting id="site2" type="bool" label="30002" default="true" />
+    <setting id="site3" type="bool" label="30003" default="true" />
+    <setting id="site4" type="bool" label="30004" default="true" />
+    <setting id="site5" type="bool" label="30005" default="true" />
+    <setting id="site6" type="bool" label="30006" default="true" />
+    <setting id="site7" type="bool" label="30007" default="true" />
+    <setting id="site8" type="bool" label="30008" default="true" />
+    <setting id="site9" type="bool" label="30009" default="true" />
+</settings>

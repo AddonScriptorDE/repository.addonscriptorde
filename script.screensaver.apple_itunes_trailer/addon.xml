@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="script.screensaver.apple_itunes_trailer" name="Video Screensaver: iTunes Trailers" version="1.1.0" provider-name="AddonScriptorDE">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.ui.screensaver" library="screensaver.py"/>
+  <extension point="xbmc.python.pluginsource" library="default.py"/>
+  <extension point="xbmc.addon.metadata">
+	<language></language>
+    <platform>all</platform>
+    <language>en</language>
+    <summary lang="en">Randomly play current trailers/teasers/clips from Apple iTunes - Choose quality and genres</summary>
+    <description lang="en">Randomly play current trailers/teasers/clips from Apple iTunes - Choose quality and genres</description>
+	  <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+	  <forum>http://forum.xbmc.org/showthread.php?tid=</forum>
+    <website>http://trailers.apple.com</website>
+    <email>AddonScriptorDE at yahoo dot de</email>
+    <source>https://github.com/AddonScriptorDE/script.screensaver.apple_itunes_trailer</source>
+  </extension>
+</addon>

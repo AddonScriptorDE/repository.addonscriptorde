@@ -1,0 +1,12 @@
+1.0.0
+- Initial release
+1.0.1
+- Fixed translations
+1.0.2
+- Added setting to force volume
+1.0.4
+- Changed addon name
+1.0.5
+- New icon (thx@djtoll)
+1.0.6
+- Fixed volume detection on Gotham

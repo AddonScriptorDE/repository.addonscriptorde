@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<strings>
+  <string id="30001">Next Page</string>
+  <string id="30002">RTL</string>
+  <string id="30003">RTL 2</string>
+  <string id="30004">VOX</string>
+  <string id="30005">RTL Nitro</string>
+  <string id="30006">Super RTL</string>
+  <string id="30007">n-tv</string>
+  <string id="30008">Show 'RTL'</string>
+  <string id="30009">Show 'RTL 2'</string>
+  <string id="30010">Show 'VOX'</string>
+  <string id="30011">Show 'RTL Nitro'</string>
+  <string id="30012">Show 'Super RTL'</string>
+  <string id="30013">Show 'n-tv'</string>
+  <string id="30014">All Shows</string>
+  <string id="30015">Series &amp; Shows</string>
+  <string id="30016">News</string>
+  <string id="30017">Tips</string>
+  <string id="30018">New</string>
+  <string id="30019">Top 10</string>
+  <string id="30020">Top Rated</string>
+  <string id="30021">Add to queue</string>
+  <string id="30022">Sorry - this video is not available in your country.</string>
+  <string id="30023">Favourites</string>
+  <string id="30024">Add to Addon favourites</string>
+  <string id="30025">Remove from Addon favourites</string>
+  <string id="30101">Use thumb as fanart</string>
+  <string id="30102">Force View</string>
+  <string id="30103">ViewID</string>
+  <string id="30201">General</string>
+  <string id="30202">Channels</string>
+</strings>

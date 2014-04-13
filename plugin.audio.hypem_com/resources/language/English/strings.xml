@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<strings>
+  <string id="30001">Next Page</string>
+  <string id="30002">Latest</string>
+  <string id="30003">Popular: Now</string>
+  <string id="30004">Popular: Last Week</string>
+  <string id="30005">Genres</string>
+  <string id="30006">My Stuff</string>
+  <string id="30007">My Favourites</string>
+  <string id="30008">My Listening History</string>
+  <string id="30009">My Obsessions</string>
+  <string id="30010">Remixes</string>
+  <string id="30011">No Remixes</string>
+  <string id="30012">All</string>
+  <string id="30013">Search</string>
+  <string id="30014">My Artists</string>
+  <string id="30015">Love song</string>
+  <string id="30016">Follow/Unfollow artist</string>
+  <string id="30017">Unfollow artist</string>
+  <string id="30018">My Feed</string>
+  <string id="30019">Zeitgeist</string>
+  <string id="30020">Unlove song</string>
+  <string id="30021">Time Machine</string>
+  <string id="30022">Free account required for personal stuff!</string>
+  <string id="30023">More from artist</string>
+  <string id="30024">My Favourites (shuffled)</string>
+  <string id="30027">Shuffle category</string>
+  <string id="30028">Freshest</string>
+  <string id="30101">Username</string>
+  <string id="30102">Password</string>
+  <string id="30103">Show "Latest (Remixes)"</string>
+  <string id="30104">Show "Latest (No Remixes)"</string>
+  <string id="30105">Show "Popular: Now (Remixes)"</string>
+  <string id="30106">Show "Popular: Now (No Remixes)"</string>
+  <string id="30107">Show "Zeitgeist"</string>
+  <string id="30108">Force View</string>
+  <string id="30109">ViewID</string>
+</strings>

@@ -1,0 +1,8 @@
+<settings>
+   <setting id="minimumMouseSpeed" type="number" label="30101" default="10"/>
+   <setting id="maximumMouseSpeed" type="number" label="30102" default="10"/>
+   <setting id="scrollSpeed" type="number" label="30106" default="20"/>
+   <setting id="useCustomCursor" type="bool" label="30104" default="true"/>
+   <setting id="customCursorSize" type="number" label="30105" default="64"/>
+   <setting id="magnifierSize" type="text" label="30103" default="1280x720"/>
+</settings>

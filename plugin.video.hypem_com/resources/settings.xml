@@ -1,0 +1,10 @@
+<settings>
+   <setting id="siteMode" type="enum" label="30103" values="Custom|Original" default="0"/>
+   <setting id="username" type="text" label="30101" enable="eq(-1,0)" default=""/>
+   <setting id="password" type="text" option="hidden" label="30102" enable="eq(-2,0)" default="" />
+   <setting id="showLatestRemix" type="bool" label="30104" default="false"/>
+   <setting id="showLatestNoRemix" type="bool" label="30105" default="false"/>
+   <setting id="showPopularRemix" type="bool" label="30106" default="false"/>
+   <setting id="showPopularNoRemix" type="bool" label="30107" default="false"/>
+   <setting id="showZeitgeist" type="bool" label="30108" default="false"/>
+</settings>

@@ -1,0 +1,27 @@
+1.0.0
+- Initial release
+1.0.2
+- Added custom mode for live performances
+1.0.3
+- Custom Mode: Added Top200 categories
+- Added setting to show info on video playback (Custom mode)
+1.0.4
+- All (shuffled): Added pseudo random parameter, so that vevo always returns new random songs
+1.0.5
+- Added custom artist channels
+- Added setting to hide VEVO TV channels
+- Added settings to hide custom categories
+- Code cleanup & optimizations
+1.0.6
+- Addon is now also shown as music addon
+1.0.8
+- Changed genre listing
+- Added playlist support
+- Added blacklist filter
+1.0.9
+- Fixed german translations
+1.1.0
+- Fixed Video playback for official channels
+1.1.1
+- Added M3U8 streaming type
+- Custom Channels: Changed CDN

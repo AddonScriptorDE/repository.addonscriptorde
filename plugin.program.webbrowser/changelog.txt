@@ -1,0 +1,33 @@
+1.0.0
+- Initial release
+1.0.2
+- Added custom mouse cursor
+- Added website shortcuts
+- Added access to favourites via Browser
+- Improved virtual keyboard
+- Improved magnifier
+1.0.3
+- Changed default setting for "Use custom cursor" to false
+1.0.4
+- Fixed bug, that Xbmc is minimized after closing the browser (on some systems)
+1.0.5
+- Changed default custom cursor
+1.0.6
+- Added support for watchever playback
+1.0.7
+- Some small changes
+1.0.8
+- Added Function Menu
+- Added toggle Mouse/Scroll function
+- Added showScrollbar website setting
+- Added scroll-speed addon setting
+- Improved magnifier (Zoom In/Out)
+- Some Usability improvements
+- Some small bugfixes
+1.0.9
+- Added IE10 support (HTML5,...)
+- Fixed bug with watchever.de login
+1.1.0
+- New icon (thx@djtoll)
+1.1.1
+- Netflix optimizations

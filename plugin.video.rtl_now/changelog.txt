@@ -1,0 +1,18 @@
+1.0.0
+- Initial release
+1.0.1
+- Fixed "Add to queue" context menu
+1.0.2
+- Fixed flv playback
+- Added season selection
+1.0.3
+- Changed name to 'NOW'
+1.0.5
+- Fixed xbox compatibility
+- Fixed some missing shows
+1.0.6
+- Fixed missing thumbs on episode listing
+1.0.7
+- Small bugfix
+1.0.8
+- Small bugfix

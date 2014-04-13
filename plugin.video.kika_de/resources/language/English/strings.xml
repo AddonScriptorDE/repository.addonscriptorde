@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<strings>
+  <string id="30001">from 3 years</string>
+  <string id="30002">from 6 years</string>
+  <string id="30003">from 10 years</string>
+  <string id="30004">Shows A-Z</string>
+  <string id="30005">Live TV</string>
+  <string id="30006">Add to queue</string>
+  <string id="30007">New videos</string>
+  <string id="30101">Use thumb as fanart</string>
+  <string id="30102">Force View</string>
+  <string id="30103">ViewID</string>
+  <string id="30104">Play audio title (from 3 years)</string>
+  <string id="30105">Only show 'from 3 years' content</string>
+</strings>

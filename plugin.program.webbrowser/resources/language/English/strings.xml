@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<strings>
+  <string id="30001">Add Website</string>
+  <string id="30002">Remove Website</string>
+  <string id="30003">Title</string>
+  <string id="30004">URL</string>
+  <string id="30005">Map Keys</string>
+  <string id="30006">Edit Website Settings</string>
+  <string id="30007">Thumbnail</string>
+  <string id="30008">Zoom Level in %</string>
+  <string id="30009">Stop XBMC playback?</string>
+  <string id="30010">Show Popups?</string>
+  <string id="30011">Show Scrollbar?</string>
+  <string id="30101">Minimum mouse speed</string>
+  <string id="30102">Maximum mouse speed</string>
+  <string id="30103">Magnifier size</string>
+  <string id="30104">Use alternative cursor</string>
+  <string id="30105">Alternative cursor size</string>
+  <string id="30106">Scroll speed</string>
+</strings>

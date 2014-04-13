@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<strings>
+  <string id="30001">Favourites</string>
+  <string id="30002">All TV-Shows</string>
+  <string id="30003">Add to favourites</string>
+  <string id="30004">Remove from favourites</string>
+  <string id="30005">Thanks</string>
+  <string id="30006">Versions</string>
+  <string id="30007">Subtitles</string>
+  <string id="30008">Added to favourites</string>
+  <string id="30009">Removed from favourites</string>
+  <string id="30010">Seasons</string>
+  <string id="30011">Settings</string>
+  <string id="30012">Activated subtitle</string>
+  <string id="30013">Search</string>
+  <string id="30014">No info for search available</string>
+  <string id="30015">No results</string>
+  <string id="30016">Sorry - Limit reached for today</string>
+  <string id="30017">Error while unpacking</string>
+  <string id="30101">Username</string>
+  <string id="30102">Password</string>
+  <string id="30103">Enable backward navigation</string>
+  <string id="30104">Pause on start</string>
+  <string id="30105">Archive subtitles</string>
+  <string id="30106">Subtitle language</string>
+</strings>

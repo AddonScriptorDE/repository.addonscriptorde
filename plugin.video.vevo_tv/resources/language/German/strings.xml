@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<strings>
+  <string id="30001">Custom (Alle Videos)</string>
+  <string id="30002">Custom (Live Videos)</string>
+  <string id="30003">Custom (Playlisten)</string>
+  <string id="30004">Custom (Interpreten)</string>
+  <string id="30005">Channel hinzufügen</string>
+  <string id="30006">Interpreten verwalten</string>
+  <string id="30007">Channel entfernen</string>
+  <string id="30008">Interpret hinzufügen</string>
+  <string id="30009">Interpret entfernen</string>
+  <string id="30010">Interpret</string>
+  <string id="30011">Interpreten getrennt durch '+'</string>
+  <string id="30012">Channel umbenennen</string>
+  <string id="30013">Added</string>
+  <string id="30014">Videos</string>
+  <string id="30015">Keine Videos verfügbar! Füge Interpreten hinzu.</string>
+  <string id="30030">VEVO ist in deinem Land nicht verfügbar!</string>
+  <string id="30031">VEVO TV ist in deinem Land nicht verfügbar!</string>
+  <string id="30101">Bitrate (Offizieller Modus)</string>
+  <string id="30102">Bitrate (Custom Modus)</string>
+  <string id="30103">Info bei Wiedergabe anzeigen (Custom Modus)</string>
+  <string id="30104">Typ</string>
+  <string id="30105">Verzögerung in Sekunden</string>
+  <string id="30106">Anzeigedauer in Sekunden</string>
+  <string id="30108">Blacklist filter: getrennt durch ',' (Custom Modus)</string>
+</strings>

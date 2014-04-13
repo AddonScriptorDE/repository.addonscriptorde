@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<strings>
+  <string id="30001">Play all</string>
+  <string id="30002">Play all (randomly)</string>
+  <string id="30003">Play all (unwatched)</string>
+  <string id="30004">Add to queue</string>
+  <string id="30005">Hot100</string>
+  <string id="30006">Genre</string>
+  <string id="30007">Country</string>
+  <string id="30008">Other</string>
+  <string id="30009">Pop</string>
+  <string id="30010">Rock</string>
+  <string id="30011">Alternative</string>
+  <string id="30012">R&B/Hip-Hop</string>
+  <string id="30013">R&B</string>
+  <string id="30014">Rap</string>
+  <string id="30015">Country</string>
+  <string id="30016">Latin</string>
+  <string id="30017">Smooth Jazz</string>
+  <string id="30018">Dance/Club</string>
+  <string id="30019">Dance/Electronic</string>
+  <string id="30020">Breaking and Entering</string>
+  <string id="30021">Canada Hot50</string>
+  <string id="30022">K-Pop Hot50</string>
+  <string id="30023">Japan Hot50</string>
+  <string id="30024">Germany</string>
+  <string id="30025">France</string>
+  <string id="30026">U.K.</string>
+  <string id="30027">Uncharted</string>
+  <string id="30028">Radio</string>
+  <string id="30029">Digital</string>
+  <string id="30030">Streaming</string>
+  <string id="30031">On-Demand</string>
+  <string id="30032">Choose YouTube video</string>
+</strings>

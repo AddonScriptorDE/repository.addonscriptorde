@@ -1,0 +1,75 @@
+1.0.0
+- Initial release
+1.0.1
+- Removed XBMC WebBrowser integration
+- Added Control Utility for Windows
+1.0.2
+- Small bugfix on profile management
+1.0.3
+- Added category: Just for Kids
+- Added season/episode listing for tv-shows
+- Added setting to show profile selection on each start
+1.0.4
+- Added "Add to library" function
+- Added setting to browse tv-shows instead of continuing
+- Loading extra information is not optional anymore
+  because adding to library and browsing tv-shows depend on it
+1.0.5
+- Added notifications for geoblocking and login problems
+1.0.6
+- Changed season/episode listing
+- Fixed adding episodes to the library
+- Fixed "My List" when using manual order mode
+- Added support for Safari Browser (OSX)
+1.0.7
+- Fixed bug with language/country detection
+1.0.8
+- Fixed episode listing for videos with missing thumb
+1.0.9
+- Fixed login issue
+- Added "Viewing Activity"
+- Added support for IExplorer (Win)
+- Added function to add "My List" to library
+- Added TMDb integration to get cover & fanart images
+- Added context menu "Play trailer"
+1.1.0
+- Fixed category "Viewing Activity" for multi-profile accounts
+1.1.1
+- Added custom User-Agent parameter on linux when launching chrome
+1.1.2
+- Added xdotool (Linux) & cliclick (OSX) integration
+- Windows: Default controls are now also mappable via the Control Utility
+1.1.3
+- Fixed NetfliXBMC_Utility.exe for 32Bit systems
+1.1.4
+- Fixed "Use Control Utility" setting
+1.1.5
+- Fixed launching of NetfliXBMC_Utility.exe when path contains spaces
+1.1.6
+- Reverted UserAgent changes on OSX / Chrome
+- Control Utitlity (Windows): Added some keymappings
+- Fixed video listing for items with missing metadata
+1.1.7
+- Fixed adding "My List" to library
+1.2.0
+- Fixed site changes (title)
+1.2.1
+- Fixed title in "Viewing Activity"
+1.2.2
+- Control Utitlity (Win): Fixed keymapping for some combo keys
+- Control Utitlity (Win): Added custom cursor position setting
+1.2.3
+- Added watched status for episodes
+- Fixed adding "My List" to library
+- Fixed categories "Genres" / "Just for Kids" for multi-profile accounts
+1.2.4
+- Changed movie/tvshow detection
+- Win/Linux: Now using Silverlight fullscreen mode
+- Control Utitlity (Win): Added settings
+1.2.5
+- Fixed problems for non US users
+1.2.6
+- Fixed login problem
+- Fixed gotham message bug
+- Some other small fixes
+- Added remote/webcontrol support

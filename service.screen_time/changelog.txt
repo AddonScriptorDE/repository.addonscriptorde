@@ -1,0 +1,4 @@
+1.0.0
+- Initial release
+1.0.1
+- Now using hashlib.sha1 for PIN storage

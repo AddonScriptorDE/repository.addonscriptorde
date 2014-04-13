@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<strings>
+  <string id="30001">Featured Episodes</string>
+  <string id="30002">Most Popular Episodes</string>
+  <string id="30003">Favorite Shows</string>
+  <string id="30004">ulive Original Series</string>
+  <string id="30005">HGTV</string>
+  <string id="30006">Food Network</string>
+  <string id="30007">Travel Channel</string>
+  <string id="30008">Cooking Channel</string>
+  <string id="30009">DIY Networks</string>
+  <string id="30010">Full Episodes</string>
+  <string id="30011">Clips</string>
+  <string id="30012">Next Page</string>
+  <string id="30013">Add to queue</string>
+  <string id="30014">Add to Addon favorites</string>
+  <string id="30015">Remove from favorites</string>
+  <string id="30016">Sorry. We cannot display this content in your area.</string>
+  <string id="30017">Search</string>
+  <string id="30102">Use thumb as fanart</string>
+  <string id="30103">Force View</string>
+  <string id="30104">ViewID</string>
+</strings>

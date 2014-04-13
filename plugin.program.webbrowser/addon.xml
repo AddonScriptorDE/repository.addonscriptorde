@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon id="plugin.program.webbrowser" name="XBMC WebBrowser" version="1.1.1" provider-name="AddonScriptorDE">
+    <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>executable</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <platform>windx</platform>
+        <summary lang="en">A WebBrowser with mouse control via keyboard/remote and some other useful features</summary>
+        <summary lang="de">Ein WebBrowser mit Maussteuerung per Tastatur/Fernbedienung und ein paar weiteren Features</summary>
+        <language></language>
+        <description lang="en">A WebBrowser with mouse control via keyboard/remote and some other useful features</description>
+        <description lang="de">Ein WebBrowser mit Maussteuerung per Tastatur/Fernbedienung und ein paar weiteren Features</description>
+        <website></website>
+        <source>https://github.com/AddonScriptorDE/plugin.program.webbrowser</source>
+        <forum>http://forum.xbmc.org/showthread.php?tid=162544</forum>
+        <email>AddonScriptorDE at yahoo dot de</email>
+    </extension>
+</addon>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<strings>
+  <string id="30001">New</string>
+  <string id="30002">Archive</string>
+  <string id="30003">Favorites</string>
+  <string id="30004">Search</string>
+  <string id="30005">Next Page</string>
+  <string id="30006">Add to queue</string>
+  <string id="30007">Add to Addon favorites</string>
+  <string id="30008">Remove from favorites</string>
+  <string id="30009">Search (Videos)</string>
+  <string id="30010">Search (Games)</string>
+  <string id="30101">Force View</string>
+  <string id="30102">ViewID</string>
+  <string id="30103">Maximum video quality</string>
+</strings>

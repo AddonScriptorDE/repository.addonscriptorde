@@ -1,0 +1,20 @@
+1.0.0
+- Initial release
+1.0.1
+- Added tv_mode parameter for usage without Screensaver function
+1.0.2
+- Added filter for foreign trailers
+1.0.3
+- Fixed bug when exiting screensaver
+1.0.4
+- Fixed bug with filtering foreign trailers
+1.0.5
+- Some small improvements
+1.0.6
+- Added setting to force volume
+1.0.8
+- Added content cache
+1.0.9
+- Fixed bug when exiting screensaver
+1.1.0
+- Fixed volume detection on Gotham

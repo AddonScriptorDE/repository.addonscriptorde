@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<strings>
+  <string id="30001">Next Page</string>
+  <string id="30002">Shows: A-Z</string>
+  <string id="30003">New videos</string>
+  <string id="30004">Popular videos</string>
+  <string id="30005">Most viewed</string>
+  <string id="30006">Seasons</string>
+  <string id="30007">Clips</string>
+  <string id="30008">Full episodes</string>
+  <string id="30009">Add to queue</string>
+  <string id="30010">Shows: Favourites</string>
+  <string id="30011">Add to Addon favourites</string>
+  <string id="30012">Remove from Addon favourites</string>
+  <string id="30101">Maximum bitrate</string>
+  <string id="30102">Force View</string>
+  <string id="30103">ViewID</string>
+  <string id="30104">Use thumb as fanart</string>
+  <string id="30105">Autoplay videos</string>
+</strings>

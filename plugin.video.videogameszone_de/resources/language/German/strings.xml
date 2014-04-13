@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<strings>
+  <string id="30001">Neu</string>
+  <string id="30002">Archiv</string>
+  <string id="30003">Favoriten</string>
+  <string id="30004">Suchen</string>
+  <string id="30005">Nächste Seite</string>
+  <string id="30006">In Abspielliste einreihen</string>
+  <string id="30007">Zu Addon Favoriten hinzufügen</string>
+  <string id="30008">Aus Favoriten entfernen</string>
+  <string id="30009">Suchen (Videos)</string>
+  <string id="30010">Suchen (Spiele)</string>
+  <string id="30101">View erzwingen</string>
+  <string id="30102">Maximale Videoqualität</string>
+</strings>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon id="plugin.video.vevo_tv" name="VEVO TV" version="1.1.1" provider-name="AddonScriptorDE">
+    <requires>
+        <import addon="xbmc.python" version="2.1.0"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video audio</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <platform>all</platform>
+        <summary lang="en">Watch music videos 24/7 - Official mode is currently available in the US, Canada, and Germany. Custom mode is currently available in Australia, Brazil, Canada, France, Germany, Ireland, Italy, The Netherlands, New Zealand, Poland, Spain, UK and US.</summary>
+        <language></language>
+        <description lang="en">Watch music videos 24/7 - Official mode is currently available in the US, Canada, and Germany. Custom mode is currently available in Australia, Brazil, Canada, France, Germany, Ireland, Italy, The Netherlands, New Zealand, Poland, Spain, UK and US.</description>
+        <disclaimer lang="en">Some parts of this addon may not be legal in your country of residence - please check with your local laws before installing.</disclaimer>
+        <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+        <source>https://github.com/AddonScriptorDE/plugin.video.vevo_tv</source>
+        <forum>http://forum.xbmc.org/showthread.php?tid=178369</forum>
+        <email>AddonScriptorDE at yahoo dot de</email>
+        <website>http://www.vevo.com</website>
+    </extension>
+</addon>

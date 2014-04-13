@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<strings>
+  <string id="30001">Next Page</string>
+  <string id="30002">Add to queue</string>
+  <string id="30003">Add to Addon favorites</string>
+  <string id="30004">Remove from favorites</string>
+  <string id="30101">Force View</string>
+  <string id="30102">ViewID</string>
+  <string id="30103">Use thumb as fanart</string>
+</strings>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+    <setting label="30001" type="action" action="RunScript(special://home/addons/service.screen_time/settings.py, setTime)"/>
+    <setting label="30003" type="action" action="RunScript(special://home/addons/service.screen_time/settings.py, setMessage)"/>
+    <setting label="30004" type="action" action="RunScript(special://home/addons/service.screen_time/settings.py, setPin)"/>
+</settings>

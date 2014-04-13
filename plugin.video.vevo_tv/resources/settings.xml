@@ -1,0 +1,32 @@
+<settings>
+    <category label="30201">
+        <setting id="bitrateOfficialNew" type="enum" label="30101" values="512kb|800kb|1392kb|2272kb|3500kb|Auto (M3U8)" default="5"/>
+        <setting id="bitrateCustom" type="enum" label="30102" values="564kb|864kb|1328kb|1728kb|2528kb|3328kb|4392kb|5392kb|Auto (M3U8)" default="5"/>
+        <setting id="blacklist" type="text" label="30108" default=""/>
+        <setting id="showInfo" type="bool" label="30103" default="true"/>
+        <setting id="infoType" type="enum" label="30104" enable="eq(-1,true)" values="InfoView|Notification" default="1"/>
+        <setting id="infoDelay" type="number" label="30105" enable="eq(-2,true)" default="5"/>
+        <setting id="infoDuration" type="number" label="30106" enable="eq(-3,true)" default="5"/>
+    </category>
+    <category label="30202">
+        <setting id="tv1" type="bool" label="30150" default="true"/>
+        <setting id="tv2" type="bool" label="30151" default="true"/>
+        <setting id="tv3" type="bool" label="30152" default="true"/>
+        <setting id="tv4" type="bool" label="30153" default="true"/>
+    </category>
+    <category label="30203">
+        <setting id="cat1" type="bool" label="30130" default="true"/>
+        <setting id="cat2" type="bool" label="30131" default="true"/>
+        <setting id="cat3" type="bool" label="30132" default="true"/>
+        <setting id="cat4" type="bool" label="30133" default="true"/>
+        <setting id="cat5" type="bool" label="30134" default="true"/>
+        <setting id="cat6" type="bool" label="30135" default="true"/>
+        <setting id="cat7" type="bool" label="30136" default="true"/>
+        <setting id="cat8" type="bool" label="30137" default="true"/>
+        <setting id="cat9" type="bool" label="30138" default="true"/>
+        <setting id="cat10" type="bool" label="30139" default="true"/>
+        <setting id="cat11" type="bool" label="30140" default="true"/>
+        <setting id="cat12" type="bool" label="30141" default="true"/>
+        <setting id="cat13" type="bool" label="30142" default="true"/>
+    </category>
+</settings>

@@ -1,0 +1,12 @@
+1.0.0
+- Initial release
+1.0.1
+- Changed default view
+1.0.2
+- Changed translations
+1.0.3
+- Added category: Full episodes
+1.0.4
+- Changed season listing
+1.0.6
+- Fixed autoplay modus under gotham

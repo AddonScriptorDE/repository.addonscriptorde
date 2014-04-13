@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<strings>
+  <string id="30001">Play randomly</string>
+  <string id="30002">Play:</string>
+  <string id="30003">All</string>
+  <string id="30004">Unwatched</string>
+  <string id="30005">PlayCount lower than</string>
+  <string id="30006">Search: Sorting</string>
+  <string id="30007">Search: Period</string>
+  <string id="30008">Relevance</string>
+  <string id="30009">Viewcount</string>
+  <string id="30010">Rating</string>
+  <string id="30011">Published</string>
+  <string id="30012">All time</string>
+  <string id="30013">Today</string>
+  <string id="30014">This week</string>
+  <string id="30015">This month</string>
+  <string id="30016">New search</string>
+  <string id="30017">Remove search</string>
+  <string id="30018">Delete history</string>
+</strings>

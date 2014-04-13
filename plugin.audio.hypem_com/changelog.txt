@@ -1,0 +1,27 @@
+1.0.0
+- Initial release
+1.0.1
+- Added search
+- Added personal stuff
+1.0.2
+- Added more personal stuff
+1.0.3
+- Fixed encoding problem
+- Added category: Zeitgeist
+1.0.4
+- Account: Songs are now added to history when played via xbmc
+1.0.5
+- Improved loving/unloving songs
+- Removed category: Zeitgeist
+- Added category: Time Machine
+1.0.6
+- Added context menu "Shuffle category"
+- Added context menu "More from artist"
+- Some other small improvements
+1.0.7
+- Added setting to load song covers while browsing
+1.0.8
+- Fixed time machine
+- Added thumb on playback
+1.0.9
+- Changed default view and some other stuff

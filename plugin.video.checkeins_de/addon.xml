@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon id="plugin.video.checkeins_de" name="CheckEins.de" version="1.0.0" provider-name="AddonScriptorDE">
+    <requires>
+        <import addon="xbmc.python" version="2.1.0"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <platform>all</platform>
+        <summary lang="de">Check Eins: das Kinderprogramm des Ersten.</summary>
+        <summary lang="en">Check Eins: das Kinderprogramm des Ersten.</summary>
+        <language>de</language>
+        <description lang="de">Check Eins: das Kinderprogramm des Ersten. Alle Kindersendungen auf einen Überblick: Die Sendung mit der Maus, Wissen macht Ah!, neuneinhalb, Pumuckl und vieles mehr.</description>
+        <description lang="en">Check Eins: das Kinderprogramm des Ersten. Alle Kindersendungen auf einen Überblick: Die Sendung mit der Maus, Wissen macht Ah!, neuneinhalb, Pumuckl und vieles mehr.</description>
+        <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+        <source>https://github.com/AddonScriptorDE/plugin.video.checkeins_de</source>
+        <forum>http://forum.xbmc.org/showthread.php?tid=132563</forum>
+        <email>AddonScriptorDE at yahoo dot de</email>
+        <website>http://www.checkeins.de</website>
+    </extension>
+</addon>

@@ -1,0 +1,6 @@
+<settings>
+   <setting id="useCoverAsFanart" type="bool" label="30101" default="true"/>
+   <setting id="winBrowser" type="enum" label="30102" values="XBMC WebBrowser|Chrome Launcher" default="0"/>
+   <setting id="forceViewMode" type="bool" label="30103" default="true"/>
+   <setting id="viewMode" type="number" label="30104" default="501"/>
+</settings>

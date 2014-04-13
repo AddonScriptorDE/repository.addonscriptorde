@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon id="plugin.video.kindernetz_de" name="Kindernetz.de" version="1.0.1" provider-name="AddonScriptorDE">
+    <requires>
+        <import addon="xbmc.python" version="2.1.0"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <platform>all</platform>
+        <summary lang="de">SWR3 Kindernetz Mediathek</summary>
+        <summary lang="en">SWR3 Kindernetz media library</summary>
+        <language>de</language>
+        <description lang="de">Das SWR Kindernetz ist die Kinderseite des Südwestrundfunks. Zum Kindernetz gehören unter anderem die Sendungen Olis Wilde Welt, Tigerenten Club oder Motzgurke. Für Vorschulkinder: Tom und das Erdbeermarmeladebrot mit Honig oder Ich kenne ein Tier.</description>
+        <description lang="en">Das SWR Kindernetz ist die Kinderseite des Südwestrundfunks. Zum Kindernetz gehören unter anderem die Sendungen Olis Wilde Welt, Tigerenten Club oder Motzgurke. Für Vorschulkinder: Tom und das Erdbeermarmeladebrot mit Honig oder Ich kenne ein Tier.</description>
+        <disclaimer lang="en">Some parts of this addon may not be legal in your country of residence - please check with your local laws before installing.</disclaimer>
+        <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+        <source>https://github.com/AddonScriptorDE/plugin.video.kindernetz_de</source>
+        <forum>http://forum.xbmc.org/showthread.php?tid=132563</forum>
+        <email>AddonScriptorDE at yahoo dot de</email>
+        <website>http://www.kindernetz.de</website>
+    </extension>
+</addon>

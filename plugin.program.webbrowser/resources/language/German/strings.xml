@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<strings>
+  <string id="30001">Website hinzufügen</string>
+  <string id="30002">Website entfernen</string>
+  <string id="30003">Titel</string>
+  <string id="30005">Tasten zuordnen</string>
+  <string id="30006">Website Eintellungen ändern</string>
+  <string id="30009">XBMC Wiedergabe stoppen?</string>
+  <string id="30010">Popups anzeigen?</string>
+  <string id="30011">Scrollbar anzeigen?</string>
+  <string id="30101">Minimale Maus Geschwindigkeit</string>
+  <string id="30102">Maximale Maus Geschwindigkeit</string>
+  <string id="30103">Größe der Lupe</string>
+  <string id="30104">Alternativen Cursor nutzen</string>
+  <string id="30105">Größe des alternativen Cursors</string>
+  <string id="30106">Scroll Geschwindigkeit</string>
+</strings>

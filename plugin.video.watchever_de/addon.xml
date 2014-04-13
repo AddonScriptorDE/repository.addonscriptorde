@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon id="plugin.video.watchever_de" name="Watchever.de" version="1.0.5" provider-name="AddonScriptorDE">
+    <requires>
+        <import addon="plugin.program.chrome.launcher" version="1.0.0"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <platform>all</platform>
+        <summary lang="en">Watch videos on Watchever.de</summary>
+        <summary lang="de">Videos auf Watchever.de schauen</summary>
+        <language>de</language>
+        <description lang="en">Watch videos on Watchever.de</description>
+        <description lang="de">Videos auf Watchever.de schauen</description>
+        <website></website>
+        <source>https://github.com/AddonScriptorDE/plugin.video.watchever_de</source>
+        <forum>http://forum.xbmc.org/showthread.php?tid=</forum>
+        <email>AddonScriptorDE at yahoo dot de</email>
+    </extension>
+</addon>

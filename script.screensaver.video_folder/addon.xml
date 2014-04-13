@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="script.screensaver.video_folder" name="Video/Audio Screensaver: Directory" version="1.1.2" provider-name="AddonScriptorDE">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.ui.screensaver" library="screensaver.py"/>
+  <extension point="xbmc.addon.metadata">
+	<language></language>
+    <platform>all</platform>
+    <language></language>
+    <summary lang="en">Play random video/audio files from a directory</summary>
+    <description lang="en">Play random video/audio files from a directory</description>
+	  <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+	  <forum>http://forum.xbmc.org/showthread.php?tid=</forum>
+    <website></website>
+    <email>AddonScriptorDE at yahoo dot de</email>
+    <source>https://github.com/AddonScriptorDE/script.screensaver.video_folder</source>
+  </extension>
+</addon>

@@ -1,0 +1,21 @@
+1.0.0
+- Initial release
+1.0.1
+- Small bugfix
+1.0.2
+- Fixed bug when exiting screensaver
+1.0.3
+- Some small improvements
+1.0.4
+- Added setting to force volume
+1.0.6
+- Changed User-Agent
+- Added functionality to only play unwatched videos
+1.0.7
+- Added setting to choose reddit
+- Added categories: new, comments
+1.0.8
+- New icon (thx@djtoll)
+- Added image screensaver function
+1.0.9
+- Fixed volume detection on Gotham

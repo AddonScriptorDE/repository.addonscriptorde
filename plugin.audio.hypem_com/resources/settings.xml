@@ -1,0 +1,11 @@
+<settings>
+   <setting id="username" type="text" label="30101" default=""/>
+   <setting id="password" type="text" option="hidden" label="30102" default="" />
+   <setting id="showLatestRemix" type="bool" label="30103" default="false"/>
+   <setting id="showLatestNoRemix" type="bool" label="30104" default="false"/>
+   <setting id="showPopularRemix" type="bool" label="30105" default="false"/>
+   <setting id="showPopularNoRemix" type="bool" label="30106" default="false"/>
+   <setting id="showZeitgeist" type="bool" label="30107" default="false"/>
+   <setting id="forceView" type="bool" label="30108" default="true"/>
+   <setting id="viewID" type="number" label="30109" default="51"/>
+</settings>

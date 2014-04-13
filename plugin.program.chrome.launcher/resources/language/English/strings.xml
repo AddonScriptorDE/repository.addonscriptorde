@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<strings>
+  <string id="30001">Add Website</string>
+  <string id="30002">Remove Website</string>
+  <string id="30003">Title</string>
+  <string id="30004">URL</string>
+  <string id="30005">Chrome not found</string>
+  <string id="30006">Edit Website Settings</string>
+  <string id="30007">Thumbnail</string>
+  <string id="30009">Stop XBMC playback?</string>
+  <string id="30010">Use custom Chrome/script path</string>
+  <string id="30011">Chrome/script path</string>
+  <string id="30012">Use own user profile (Could take some time on first start)</string>
+  <string id="30016">Use kiosk mode?</string>
+</strings>

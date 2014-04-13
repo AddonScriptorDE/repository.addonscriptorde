@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<strings>
+  <string id="30001">Next Page</string>
+  <string id="30002">Search</string>
+  <string id="30003">International</string>
+  <string id="30004">United Kingdom</string>
+  <string id="30005">Germany</string>
+  <string id="30006">Canada</string>
+  <string id="30007">France</string>
+  <string id="30008">Italy</string>
+  <string id="30009">Mexico</string>
+  <string id="30010">India</string>
+  <string id="30011">Brazil</string>
+  <string id="30012">Spain</string>
+  <string id="30013">Spain (US)</string>
+  <string id="30014">Sorry, this video is not available in your country!</string>
+  <string id="30101">Maximum bitrate</string>
+  <string id="30102">Items per page (International)</string>
+  <string id="30103">Use thumb as fanart</string>
+  <string id="30104">Force View</string>
+  <string id="30105">ViewID</string>
+  <string id="30201">General</string>
+  <string id="30202">Sites</string>
+</strings>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+   <setting id="maxBitRate" type="enum" label="30101" values="500kb|1000kb|1500kb|2000kb|2500kb|3000kb" default="5"/>
+   <setting id="autoPlay" type="bool" label="30105" default="true"/>
+   <setting id="useThumbAsFanart" type="bool" label="30104" default="true"/>
+   <setting id="forceView" type="bool" label="30102" default="true"/>
+   <setting id="viewID" type="number" label="30103" default="51"/>
+</settings>

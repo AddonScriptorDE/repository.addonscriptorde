@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon id="plugin.video.pfefferkoerner_de" name="Pfefferkörner.de" version="1.0.0" provider-name="AddonScriptorDE">
+    <requires>
+        <import addon="xbmc.python" version="2.1.0"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <platform>all</platform>
+        <summary lang="de">Pfefferkörner Mediathek</summary>
+        <summary lang="en">Pfefferkörner media library</summary>
+        <language>de</language>
+        <description lang="de">Ganze Folgen von "Die Pfefferkörner" ansehen</description>
+        <description lang="en">Watch full episodes of "Die Pfefferkörner"</description>
+        <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+        <source>https://github.com/AddonScriptorDE/plugin.video.pfefferkoerner_de</source>
+        <forum>http://forum.xbmc.org/showthread.php?tid=132563</forum>
+        <email>AddonScriptorDE at yahoo dot de</email>
+        <website>http://www.pfefferkoerner.de</website>
+    </extension>
+</addon>

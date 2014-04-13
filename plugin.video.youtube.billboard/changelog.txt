@@ -1,0 +1,24 @@
+1.0.0
+- Initial release
+1.0.1
+- Added various charts
+- Added context menu "Add to queue"
+1.0.2
+- Search results are now stored for later playback
+- Added context menu to manually select youtube video
+1.0.3
+- Changed search query
+1.0.4
+- Fixed bug with play unwatched mode
+1.0.5
+- Thumbs are now displayed (only for watched videos)
+1.0.6
+- Fixed site changes while choosing video manually
+1.0.7
+- Fixed billboard.com site changes
+1.0.8
+- Changed Youtube search result handling
+1.0.9
+- Reverted last changes because of bad search results
+1.1.0
+- Fixed site changes

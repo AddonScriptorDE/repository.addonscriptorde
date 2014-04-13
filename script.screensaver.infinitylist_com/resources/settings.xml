@@ -1,0 +1,7 @@
+<settings>
+   <setting id="genre" type="enum" label="30001" values="All|Bike|Climb|Extra|Motor|Parkour|Skate|Sky|Snow|Water" default="0"/>
+   <setting id="setVolume" type="bool" label="30004" default="false"/>
+   <setting id="volume" type="number" label="30006" enable="!eq(-1,false)" default="1"/>
+   <setting id="jumpBack" type="number" label="30002" default="10"/>
+   <setting id="exitDelay" type="number" label="30003" default="1000"/>
+</settings>

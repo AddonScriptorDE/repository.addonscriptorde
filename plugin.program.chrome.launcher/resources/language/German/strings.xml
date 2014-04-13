@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<strings>
+  <string id="30001">Website hinzufügen</string>
+  <string id="30002">Website entfernen</string>
+  <string id="30003">Titel</string>
+  <string id="30005">Chrome nicht gefunden</string>
+  <string id="30006">Website Einstellungen ändern</string>
+  <string id="30009">XBMC Wiedergabe stoppen?</string>
+  <string id="30010">Benutzerdefinierten Chrome/Skript Pfad nutzen</string>
+  <string id="30011">Chrome/Skript Pfad</string>
+  <string id="30012">Eigenes Nutzerprofil nutzen (Kann beim ersten Start etwas dauern)</string>
+</strings>

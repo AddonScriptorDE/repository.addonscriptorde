@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<strings>
+  <string id="30001">Nächste Seite</string>
+  <string id="30002">Sendungen: A-Z</string>
+  <string id="30003">Neue Videos</string>
+  <string id="30004">Beliebte Videos</string>
+  <string id="30005">Meist Gesehen</string>
+  <string id="30006">Staffeln</string>
+  <string id="30007">Clips</string>
+  <string id="30008">Ganze Folgen</string>
+  <string id="30009">In Abspielliste einreihen</string>
+  <string id="30010">Sendungen: Favoriten</string>
+  <string id="30011">Zu Addon Favoriten hinzufügen</string>
+  <string id="30012">Aus Addon Favoriten entfernen</string>
+  <string id="30101">Maximale Bitrate</string>
+  <string id="30102">View erzwingen</string>
+  <string id="30104">Thumb als Fanart nutzen</string>
+  <string id="30105">Videos automatisch abspielen</string>
+</strings>

@@ -1,0 +1,10 @@
+<settings>
+    <setting id="content" type="enum" label="30009" values="Videos|Images" default="0"/>
+    <setting id="subreddit" type="text" label="30008" default="all"/>
+    <setting id="type" type="enum" label="30001" values="Hot|Top|New|Comments" default="0"/>
+    <setting id="playUnwatched" type="bool" label="30007" enable="eq(-3,0)" default="true"/>
+    <setting id="setVolume" type="bool" label="30004" enable="eq(-4,0)" default="false"/>
+    <setting id="volume" type="number" label="30006" enable="!eq(-1,false)" default="1"/>
+    <setting id="jumpBack" type="number" label="30002" enable="eq(-6,0)" default="10"/>
+    <setting id="exitDelay" type="number" label="30003" enable="eq(-7,0)" default="1000"/>
+</settings>

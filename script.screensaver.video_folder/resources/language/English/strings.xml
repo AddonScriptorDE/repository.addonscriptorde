@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<strings>
+  <string id="30001">Directory</string>
+  <string id="30002">Seconds to jump back on interrupted videos</string>
+  <string id="30003">Exit delay in milliseconds</string>
+  <string id="30004">Change volume</string>
+  <string id="30005">No videos found</string>
+  <string id="30006">Volume (0-100)</string>
+</strings>

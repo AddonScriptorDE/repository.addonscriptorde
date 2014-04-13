@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="script.subcentral_de" name="SubCentral.de" version="1.1.2" provider-name="AddonScriptorDE">
+  <extension point="xbmc.python.subtitles" library="default.py" />
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">SubCentral.de - Quality subtitles for TV-Shows (DE/EN)</summary>
+    <summary lang="de">SubCentral.de - Hochwertige Untertitel für TV-Serien (DE/EN)</summary>
+    <description lang="en">SubCentral.de - Quality subtitles for TV-Shows (DE/EN)</description>
+    <description lang="de">SubCentral.de - Hochwertige Untertitel für TV-Serien (DE/EN)</description>
+    <website></website>
+    <source>https://github.com/AddonScriptorDE/script.subcentral_de</source>
+    <forum>http://forum.xbmc.org/showthread.php?tid=157479</forum>
+    <email>AddonScriptorDE at yahoo dot de</email>
+    <platform>all</platform>
+  </extension>
+</addon>

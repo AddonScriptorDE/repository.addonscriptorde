@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon id="plugin.video.hypem_com" name="Hype Machine" version="1.0.2" provider-name="AddonScriptorDE">
+    <requires>
+        <import addon="xbmc.python" version="2.0"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <platform>all</platform>
+        <summary lang="en">Latest songs from music blogs worldwide</summary>
+        <language></language>
+        <description lang="en">Latest songs from music blogs worldwide</description>
+        <website>http://www.hypem.com</website>
+        <source>https://github.com/AddonScriptorDE/plugin.video.hypem_com</source>
+        <forum>http://forum.xbmc.org/showthread.php?tid=</forum>
+        <email>AddonScriptorDE at yahoo dot de</email>
+    </extension>
+</addon>

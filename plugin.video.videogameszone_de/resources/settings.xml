@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+   <setting id="maxVideoQuality" type="enum" label="30103" values="SD|HD" default="1"/>
+   <setting id="forceView" type="bool" label="30101" default="true"/>
+   <setting id="viewID" type="number" label="30102" enable="eq(-1,true)" default="51"/>
+</settings>
